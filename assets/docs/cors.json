@@ -1,0 +1,7 @@
+[
+  {
+    "origin": ["https://greenhat23mun-8051.firebaseapp.com"],
+    "method": ["GET"],
+    "maxAgeSeconds": 3600
+  }
+]

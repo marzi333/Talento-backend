@@ -1,0 +1,9 @@
+Flask==2.0.1
+langchain==0.0.297
+gunicorn
+vertexai
+google-cloud-aiplatform
+scikit_learn
+flask-cors
+pypdf
+jq
