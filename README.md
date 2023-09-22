@@ -1,4 +1,4 @@
-### Celonis LLM Backend
+### Celonis LLM Backend
 
 This is the Celonis LLM Backend. REST API written in Python using the Flask framework.
 
